@@ -1,0 +1,8 @@
+path: /content/gdrive/My Drive/TP-VC-2023/Dados_Treinados
+train: images/train 
+val: images/val  
+
+nc: 4
+names: ['Ceu','Carro','Moto','Pessoas']
+
+
